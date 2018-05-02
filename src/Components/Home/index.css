@@ -1,0 +1,26 @@
+nav {
+  width: 100%;
+  height: 60px;
+  background: #282828;
+  box-shadow: 4px 4px 4px 4px darkgrey; }
+  nav #left {
+    padding-bottom: 10px;
+    padding-left: 20px;
+    float: left;
+    width: 50%;
+    text-align: center;
+    height: 60px;
+    line-height: 60px; }
+    nav #left img {
+      display: block; }
+  nav #right {
+    float: right; }
+    nav #right span {
+      margin-right: 10px;
+      display: block;
+      width: 70px;
+      height: 60px;
+      background: orangered;
+      text-align: center;
+      line-height: 60px;
+      color: white; }

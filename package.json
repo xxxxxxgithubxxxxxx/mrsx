@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-	  "axios": "^0.18.0",
+	  	"axios": "^0.18.0",
 	    "node-sass-chokidar": "^1.2.2",
 	    "react": "^16.3.2",
 	    "react-addons-css-transition-group": "^15.6.2",
@@ -11,8 +11,8 @@
 	    "react-redux": "^5.0.7",
 	    "react-router": "^4.2.0",
 	    "react-router-dom": "^4.2.2",
-	    "react-swipe": "^5.1.1",
-	    "redux": "^4.0.0"
+	    "redux": "^4.0.0"，
+		
   },
   "devDependencies": {
 	    "react-scripts": "1.1.4"
@@ -35,6 +35,11 @@
 	      "target": "https://www.ele.me",
 	      "host": "www.ele.me",
 	      "changeOrigin": true
-	    }
+	    },
+	    "/show": {
+		      "target": " https://m.nubia.com",
+		      "host": " https://m.nubia.com",
+		      "changeOrigin": true
 	  }
+	   
 }
